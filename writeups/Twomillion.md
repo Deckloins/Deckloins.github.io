@@ -1,7 +1,6 @@
 ---
-layout: page
+layout: default
 title: "TwoMillion"
-permalink: /writeups/TwoMillion.md
 ---
 
 # HackTheBox: TwoMillion Writeup
