@@ -1,6 +1,8 @@
+---
 layout: page
 title: "TwoMillion"
 permalink: /writeups/
+---
 
 # HackTheBox: TwoMillion Writeup
 
