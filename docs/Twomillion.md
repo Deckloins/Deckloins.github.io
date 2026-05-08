@@ -1,7 +1,7 @@
 ---
 layout: page
 title: "TwoMillion"
-permalink: /writeups/twomillion.md
+permalink: /writeups/TwoMillion.md
 ---
 
 # HackTheBox: TwoMillion Writeup
