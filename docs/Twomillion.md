@@ -1,6 +1,8 @@
+---
 layout: page
 title: "TwoMillion"
 permalink: /writeups/
+---
 
 # HackTheBox: TwoMillion Writeup
 
@@ -41,7 +43,7 @@ After deobfuscating the script, we discover a hidden API endpoint: `/api/v1/invi
     "data": "Va beqre gb trarengr gur vaivgr pbqr, znxr n CBFG erdhrfg gb \/ncv\/i1\/vaivgr\/trarengr",
     "enctype": "ROT13"
   },
-  "hint": "Data is encrypted ... We should probbably check the encryption type in order to decrypt it..."
+  "hint": "Data is encrypted ... We should probably check the encryption type in order to decrypt it..."
 }
 ```
 
