@@ -2,5 +2,5 @@
 A collection of writeups, posts, and random things i wanted to share.
 
 
-## [HackTheBox Writeups](deckloins.github.io/writeups)
-- [TwoMillion](deckloins.github.io/writeups/twomillion.md)
+## [HackTheBox Writeups](https://deckloins.github.io/writeups)
+- [TwoMillion](https://deckloins.github.io/writeups/twomillion.md)
